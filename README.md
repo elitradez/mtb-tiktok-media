@@ -17,5 +17,6 @@ Rendered vertical clips published to the `@weekend.builder27` TikTok account.
 - `11-beech-slowmo-control.mp4` — Adapted from **Beech downhill (15 fps)** by LithiumFlash (own work), licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Beech_downhill_(15_fps).webm
 - `12-megavalanche-glacier-start.mp4` — Adapted from **Megavalanche 2014 Front row action** by MrGeolearn, licensed [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Megavalanche_2014_Front_row_action.webm
 - `13-rasica-every-landing.mp4` — Adapted from **Slovenia MTB – Rašica** by Arian Todorovič, licensed [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Slovenia_MTB_-_Ra%C5%A1ica.webm
+- `14-downhill-one-line.mp4` — Adapted from **Mountain biking Downhill** by Mountain Biking TV, licensed [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Mountain_biking_Downhill.webm
 
-Edits add vertical formatting, sequencing, and text overlays. Share-alike derivatives remain under the applicable source CC BY-SA license.
+Edits add vertical formatting, sequencing, text overlays, and original procedural ambient sound design. Share-alike derivatives remain under the applicable source CC BY-SA license.
