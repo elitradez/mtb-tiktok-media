@@ -20,5 +20,6 @@ Rendered vertical clips published to the `@weekend.builder27` TikTok account.
 - `14-downhill-one-line.mp4` — Adapted from **Mountain biking Downhill** by Mountain Biking TV, licensed [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Mountain_biking_Downhill.webm
 - `15-one-mistake-race-run.mp4` — Adapted from **Državno prvenstvo v spustu 2016 - TrbowleTV** by TRBOWLE TV, licensed [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Dr%C5%BEavno_prvenstvo_v_spustu_2016_-_TrbowleTV.webm
 - `16-manual-balance-point.mp4` — Adapted from **Long manuals on a mountainbike** by Radde faehrt Radd, licensed [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Long_manuals_on_a_mountainbike.webm
+- `17-send-of-the-day.mp4` — Adapted from **Dirt jump biking** by Henry Geer, licensed [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Dirt_jump_biking.webm
 
 Edits add vertical formatting, sequencing, text overlays, and original procedural ambient sound design. Share-alike derivatives remain under the applicable source CC BY-SA license.
